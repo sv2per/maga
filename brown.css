@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+}
+
+h1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.space {
+    display: flex;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+    gap: 10%;
+    color: white;
+}
+
+.ship{
+    
+}
+
+.shik{
+
+}
+
+.shit{
+
+}
+
+.shif{
+
+}
+
+.shiq{
+
+}
+
+.shix{
+
+}
+
+.shin{
+
+}
+
+.shil{
+
+}
+
+.shiw{
+
+}
+
+.shij{
+
+}
+
+.shib{
+
+}
+
+.shiz{
+
+}
+
+.shiy{
+
+}
